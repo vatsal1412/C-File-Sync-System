@@ -37,4 +37,5 @@ char* hash(FILE *f)
   }
   fclose(f);
   return hash_val;
+  
 }
