@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-// Add your system includes here.
+//system includes
 #include <stdlib.h>
 #include <dirent.h>
 #include <sys/types.h>
